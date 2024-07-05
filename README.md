@@ -6,14 +6,14 @@
 ## Instruction for adding graphics and OpenGL file in CodeBlocks
 - Install '<a href="https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe">codeblocks-20.03mingw-setup.exe</a>'
 
-- Replace the files in 'C:\Program Files\CodeBlocks\MinGW' with files from "<a href="https://github.com/mdarikrayhan/CSE-4206-Computer-Graphics-Sessional/blob/main/Graphics_h_and_OpenGL/MinGW.zip">MinGW.zip</a>"
+- Replace the files in 'C:\Program Files\CodeBlocks\MinGW' with files from "<a href="https://github.com/mdarikrayhan/Computer-Graphics-Sessional/blob/main/Graphics_h_and_OpenGL/MinGW.zip">MinGW.zip</a>"
 
 - add the flowing path in Environment Variables
 ```
 C:\Program Files\CodeBlocks\MinGW\bin
 ```
 
-- Copy the "<a href="https://github.com/mdarikrayhan/CSE-4206-Computer-Graphics-Sessional/blob/main/Graphics_h_and_OpenGL/glut32.dll">glut32.dll</a>" to the flowing path
+- Copy the "<a href="https://github.com/mdarikrayhan/Computer-Graphics-Sessional/blob/main/Graphics_h_and_OpenGL/glut32.dll">glut32.dll</a>" to the flowing path
 ```
 C:\Windows\System
 ```
